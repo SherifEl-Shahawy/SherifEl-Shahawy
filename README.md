@@ -1,30 +1,82 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Sherif El-Shahawy</h1>
-<h3 align="center">I’m a developer experienced in building Desktop Application for small and medium-sized businesses. Whether you’re trying to win work, list your services, or create a new Application or Script, I can help.</h3>
-<h3 align="left">= Using different development tools (Python and C++, C#)</h3>
-<h3 align="left">= Full project management from start to finish</h3>
-<h3 align="left">= Regular communication is important to me, so let’s keep in touch.</h3>
-<h3 align="center">Experienced Software Programmer with a demonstrated history of working in the computer software industry. I can also do separate works for Automation Scripts, front-end, back-end, database. I have dealt with different types of projects in my professional career which include automation of manual processes, Procurement, and Inventory, Beneficiary Management, Accounting, Sales, and Reporting..</h3>
+<h1 align="center">Hi, I'm Sherif El-Shahawy</h1>
+<p align="center">Software developer. Data analysis and statistical reporting in Python. Game development in Godot.</p>
 
-- 📫 How to reach me **1337Sherif@gmail.com**
+## About me
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sherifel-shahawy&label=Profile%20views&color=0e75b6&style=flat" alt="sherifel-shahawy" /> </p>
+I have spent many years building desktop apps and automation for small and medium businesses, using Python, C#, C++ and SQL.
+That work covered procurement, inventory, accounting, sales and reporting.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sherifel-shahawy" alt="sherifel-shahawy" /></a> </p>
+I use AI-assisted development (Claude Code) day to day.
 
+## Side projects
 
+All private and in progress.
 
-<h3 align="left">Connect with me:</h3>
+### Data analysis and statistical reporting (Python)
+
+- Pipelines that pull business data through APIs, then clean and match it.
+- Statistical tests: confidence intervals, permutation tests, cohort analysis.
+- Multi-page PDF reports and Excel tables with pandas and matplotlib.
+- Every figure is computed, checked by automated gates and traceable to its source.
+- Sensitive data is handled with privacy in mind.
+
+### 3D MMORPG (Godot 4.6, GDScript)
+
+An original game set in ancient Greek and Pharaonic worlds, with original art.
+It is single-player today, but built server-shaped so it can grow into a real online game.
+
+### Game server (Rust)
+
+A network game server built from written specs.
+Packet code is hand-written with binrw, and each spec rule has its own test.
+Strict build gates: cargo build, clippy and tests, all with no warnings.
+
+### Binary analysis tooling
+
+A workbench for studying Windows executables with Ghidra and AI-driven analysis tools, to recover readable code.
+
+### Stock-selection research (Python, ML)
+
+A team of specialist models that picks a small monthly portfolio from one stock market.
+Strict research rules: a sealed hold-out period, no look-ahead, point-in-time data, every experiment logged (failures too), and decisions written down before results are seen.
+
+### Personal investment research
+
+Fundamental analysis of funds and stocks: fair-value models, behaviour through past market shocks, and a scoring system.
+Every number is tied to a dated source.
+
+## Public repositories
+
+- [BlueLine-App](https://github.com/sherifel-shahawy/BlueLine-App) – Python desktop app for a fabric-dyeing factory.
+- [vsro-devkit](https://github.com/sherifel-shahawy/vsro-devkit) – C++ game development kit, based on florian0's open-source devkit.
+- [COVID_Data_Analysis](https://github.com/sherifel-shahawy/COVID_Data_Analysis) – COVID data exploration in T-SQL.
+- [NashvilleHousing_Data-Cleaning](https://github.com/sherifel-shahawy/NashvilleHousing_Data-Cleaning) – Data cleaning in SQL.
+- [Data-Persistence-Project](https://github.com/sherifel-shahawy/Data-Persistence-Project) – Unity project in C#.
+- [it-cert-automation-practice](https://github.com/sherifel-shahawy/it-cert-automation-practice) – Google IT Automation with Python practice.
+
+## Tools
+
 <p align="left">
-<a href="https://fb.com/facebook.com/1337sherif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook.com/1337sherif" height="30" width="40" /></a>
-<a href="https://discord.gg/shero73" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="shero73" height="30" width="40" /></a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" title="pandas" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" title="matplotlib" width="40" height="40"/>
+<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MSSQL" title="Microsoft SQL Server" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" title="SQLite" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" title="C#" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg" alt="Godot" title="Godot" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" title="Unity" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" title="Git" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="Rust" title="Rust" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/NationalSecurityAgency/ghidra/master/Ghidra/Framework/Gui/src/main/resources/images/GhidraIcon256.png" alt="Ghidra" title="Ghidra" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" title="Linux" width="40" height="40"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+## Contact
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sherifel-shahawy&show_icons=true&locale=en&layout=compact" alt="sherifel-shahawy" /></p>
+- Email: **1337Sherif@gmail.com**
+- <a href="https://facebook.com/1337sherif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook.com/1337sherif" height="30" width="40" /></a>
+  <a href="https://discord.gg/shero73" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="shero73" height="30" width="40" /></a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sherifel-shahawy&show_icons=true&locale=en" alt="sherifel-shahawy" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sherifel-shahawy&" alt="sherifel-shahawy" /></p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=sherifel-shahawy&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /></p>
