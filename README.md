@@ -6,25 +6,44 @@
 I have spent many years building desktop apps and automation for small and medium businesses, using Python, C#, C++ and SQL.
 That work covered procurement, inventory, accounting, sales and reporting.
 
-Today most of my time goes into two areas.
+I use AI-assisted development (Claude Code) day to day.
 
-### Data analysis and statistical reporting
+## Side projects
 
-I build end-to-end pipelines in Python:
+All private and in progress.
 
-- Pull CRM and booking data through APIs.
-- Clean it and match records across sources.
-- Run statistical tests: confidence intervals, permutation tests, cohort analysis.
-- Render multi-page PDF reports and Excel tables with pandas and matplotlib.
+### Data analysis and statistical reporting (Python)
 
-I care about reproducibility.
-Every number on a page is computed, checked by automated gates, and traceable to its source.
-Sensitive data is handled with privacy in mind.
+- Pipelines that pull business data through APIs, then clean and match it.
+- Statistical tests: confidence intervals, permutation tests, cohort analysis.
+- Multi-page PDF reports and Excel tables with pandas and matplotlib.
+- Every figure is computed, checked by automated gates and traceable to its source.
+- Sensitive data is handled with privacy in mind.
 
-### Game development
+### 3D MMORPG (Godot 4.6, GDScript)
 
-I am building an MMORPG in Godot 4.6 with GDScript. It is private and in progress.
-Before that I worked on C++ game tooling (see `vsro-devkit` below).
+An original game set in ancient Greek and Pharaonic worlds, with original art.
+It is single-player today, but built server-shaped so it can grow into a real online game.
+
+### Game server (Rust)
+
+A network game server built from written specs.
+Packet code is hand-written with binrw, and each spec rule has its own test.
+Strict build gates: cargo build, clippy and tests, all with no warnings.
+
+### Binary analysis tooling
+
+A workbench for studying Windows executables with Ghidra and AI-driven analysis tools, to recover readable code.
+
+### Stock-selection research (Python, ML)
+
+A team of specialist models that picks a small monthly portfolio from one stock market.
+Strict research rules: a sealed hold-out period, no look-ahead, point-in-time data, every experiment logged (failures too), and decisions written down before results are seen.
+
+### Personal investment research
+
+Fundamental analysis of funds and stocks: fair-value models, behaviour through past market shocks, and a scoring system.
+Every number is tied to a dated source.
 
 ## Public repositories
 
@@ -48,6 +67,9 @@ Before that I worked on C++ game tooling (see `vsro-devkit` below).
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg" alt="Godot" title="Godot" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" title="Unity" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" title="Git" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="Rust" title="Rust" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/NationalSecurityAgency/ghidra/master/Ghidra/Framework/Gui/src/main/resources/images/GhidraIcon256.png" alt="Ghidra" title="Ghidra" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" title="Linux" width="40" height="40"/>
 </p>
 
