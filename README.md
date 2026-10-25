@@ -80,7 +80,9 @@ Every number is tied to a dated source.
 ## Contact
 
 - Email: **1337Sherif@gmail.com**
-- <a href="https://facebook.com/1337sherif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook.com/1337sherif" height="30" width="40" /></a>
-  <a href="https://discord.gg/shero73" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="shero73" height="30" width="40" /></a>
+- LinkedIn: [sherif-el-shahawy-data-analyst](https://www.linkedin.com/in/sherif-el-shahawy-data-analyst/)
+- Upwork: [freelancer profile](https://www.upwork.com/freelancers/~01c6c16b7c2b70d670)
+- Tableau Public: [portfolio](https://public.tableau.com/app/profile/sherif.el.shahawy/vizzes)
+- Discord: [shero73](https://discord.gg/shero73)
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=sherifel-shahawy&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /></p>
