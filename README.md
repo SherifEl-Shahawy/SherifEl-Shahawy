@@ -1,9 +1,10 @@
 <h1 align="center">Hi, I'm Sherif El-Shahawy</h1>
-<p align="center">Software developer. Data analysis and statistical reporting in Python. Game development in Godot.</p>
+<p align="center">ML engineer and data scientist. Statistical reporting, ML research and game development.</p>
 
 ## About me
 
-I have spent many years building desktop apps and automation for small and medium businesses, using Python, C#, C++ and SQL.
+I work as an ML engineer, data scientist and AI tutor/trainer.
+I also have many years of experience building desktop apps and automation for small and medium businesses, using Python, C#, C++ and SQL.
 That work covered procurement, inventory, accounting, sales and reporting.
 
 I use AI-assisted development (Claude Code) day to day.
@@ -60,6 +61,9 @@ Every number is tied to a dated source.
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" title="pandas" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" title="matplotlib" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" title="NumPy" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" title="scikit-learn" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" title="Jupyter" width="40" height="40"/>
 <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MSSQL" title="Microsoft SQL Server" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" title="SQLite" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" title="C#" width="40" height="40"/>
