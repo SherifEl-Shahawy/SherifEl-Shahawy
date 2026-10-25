@@ -26,14 +26,10 @@ Sensitive data is handled with privacy in mind.
 I am building an MMORPG in Godot 4.6 with GDScript. It is private and in progress.
 Before that I worked on C++ game tooling (see `vsro-devkit` below).
 
-### How I work
-
-I use AI-assisted development (Claude Code) every day.
-
 ## Public repositories
 
 - [BlueLine-App](https://github.com/sherifel-shahawy/BlueLine-App) – Python desktop app for a fabric-dyeing factory.
-- [vsro-devkit](https://github.com/sherifel-shahawy/vsro-devkit) – C++ game development kit (fork).
+- [vsro-devkit](https://github.com/sherifel-shahawy/vsro-devkit) – C++ game development kit, based on florian0's open-source devkit.
 - [COVID_Data_Analysis](https://github.com/sherifel-shahawy/COVID_Data_Analysis) – COVID data exploration in T-SQL.
 - [NashvilleHousing_Data-Cleaning](https://github.com/sherifel-shahawy/NashvilleHousing_Data-Cleaning) – Data cleaning in SQL.
 - [Data-Persistence-Project](https://github.com/sherifel-shahawy/Data-Persistence-Project) – Unity project in C#.
